@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "奶啤萝卜好吃吗 Blog",
 
 	// 站点副标题
 	subtitle: "Demo site",
