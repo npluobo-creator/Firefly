@@ -28,12 +28,15 @@ export const siteConfig: SiteConfig = {
 		"博客",
 		"技术博客",
 		"静态博客",
+		"MMD",
+		"渲染",
+		"插件",
 	],
 
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 225,
 		// 是否对访问者隐藏主题色选择器
 		fixed: false,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
@@ -76,7 +79,7 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/firefly.png",
-			alt: "🍀",
+			alt: "https://weavatar.com/avatar/3011c33caaa2bc3d55dca3c17c59ab38a3f834d557a0cbc85f832faaf9706fdf?d=letter&letter=%E5%A5%B6%E5%95%A4%E8%90%9D%E5%8D%9C%E5%A5%BD%E5%90%83%E5%90%97",
 		},
 		// 导航栏标题
 		title: "奶啤萝卜好吃吗 Blog",
