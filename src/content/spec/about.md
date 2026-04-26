@@ -1,8 +1,10 @@
 # 关于我 / About Me
 
-你好！我是 **奶啤萝卜好吃吗** ，TA时长两点半练习生。
+你好！我是 **奶啤萝卜好吃吗** ，TA时长两点半练习生。不论是MMD制作，还是特效设计，亦或者是插件的制作，都可以找我交流学习.本人擅长call ai(bushi
 
 ## 🛠️ 关于本站
+
+这里我将存放我的作品集和技术文档，欢迎你的观看
 
 这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，奶啤萝卜Blog 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
 
@@ -11,15 +13,15 @@
 
 **🖥️在线预览： [Firefly - Demo site](https://github.com/npluobo-creator)**
 
-**🏠我的博客： [(https://blog.cuteleaf.cn/)](https://github.com/npluobo-creator)**
+**🏠我的博客： [https://blog.npluobo.cn](https://github.com/npluobo-creator)**
 
 
 ## 📫 联系方式
 
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
-- 💻 **GitHub**: [npluobo][([https://github.com/CuteLeaf](https://github.com/npluobo-creator))](https://github.com/npluobo-creator)
-- ✉️ **Email**: [2129507699@qq.com]
+- 💻 **GitHub**: https://github.com/npluobo-creator
+- ✉️ **Email**: 2129507699@qq.com
 - 🐧 **QQ：[2129507699]([https://qm.qq.com/q/ZGsFa8qX2G](https://qm.qq.com/q/23ytiFn4oo))**
 
 ---
